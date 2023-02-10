@@ -1,14 +1,14 @@
 body {
-  background-color: #9ba8cc;
+  background-color: rgb(214, 171, 195);
 }
 
 h1 {
-  color: #1A3680;
+  color: #6f1a80;
   text-align: center;
 }
 
 .aktif {
-  background-color: #1A3680;
+  background-color: #6f1a80;
   color: white;
   text-align: center;
 }
@@ -44,6 +44,17 @@ li a:hover {
   text-align: center;
 }
 
+.anasayfa {
+  color: rgb(231, 89, 167);
+  text-align: center;
+}
+
+a {
+  text-decoration:none;
+  color: #ececec;
+  font-size: 20px;
+}
+
 h2 {
-  color: rgb(189, 114, 15);
+  color: #801a72;
 }
