@@ -1,3 +1,7 @@
+body {
+  background-color: #9ba8cc;
+}
+
 h1 {
   color: #1A3680;
   text-align: center;
@@ -41,5 +45,5 @@ li a:hover {
 }
 
 h2 {
-  color: rgb(114, 8, 8);
+  color: rgb(189, 114, 15);
 }
