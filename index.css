@@ -1,3 +1,32 @@
 h1 {
   color: blueviolet;
 }
+
+.aktif {
+  background-color: #1A3680;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float:left;
+}
+
+li a {
+  display: block;
+  padding: 14px 16px;
+  background-color: #ccc;
+  text-decoration: none;
+  color: #000000;
+}
+
+li a:hover {
+  background-color: #888888;
+  color: white;
+}
