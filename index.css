@@ -58,3 +58,10 @@ a {
 h2 {
   color: #801a72;
 }
+
+.roman1{
+  float:left;
+	height:250px;
+	margin: 20px;
+  text-align: center;
+}
