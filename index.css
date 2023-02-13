@@ -62,20 +62,27 @@ h2 {
 .roman1{
   float:left;
 	height:250px;
-	margin: 40px 60px;
+	margin: 40px 70px;
   text-align: center;
 }
 
 .roman2{
   float:left;
 	height:250px;
-	margin: 40px 60px;
+	margin: 40px 70px;
   text-align: center;
 }
 
 .roman3{
   float:left;
 	height:250px;
-	margin: 40px 60px;
+	margin: 40px 70px;
+  text-align: center;
+}
+
+.roman4{
+  float:left;
+	height:250px;
+	margin: 40px 70px;
   text-align: center;
 }
