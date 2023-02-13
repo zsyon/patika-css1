@@ -13,6 +13,12 @@ h1 {
   text-align: center;
 }
 
+.kişisel {
+  background-color: #6f1a80;
+  color: white;
+  text-align: center;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
